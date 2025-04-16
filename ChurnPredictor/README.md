@@ -3,7 +3,7 @@ ChurnPredictor predicts whether a given subscriber will churn based on historica
 <br>
 The project uses scikit-learn's XGBoost algo to make this prediction (churn or No-churn). XGBoost is most suited because it works best for supervised classification problems based on tabular data.
 
-**Features**
+**Features** <br>
 This project -
 1. Loads or generates synthetic churn data
 2. Preprocesses the data for machine learning
@@ -13,11 +13,11 @@ This project -
 6. calls visualization functions from evaluate.py
 
 **Tech Stack**
-1. Python libraries
-    a. scikit learn
-    b. matplotlib
-    c. pandas
-    d. faker
+1. Python libraries <br>
+    a. scikit learn <br>
+    b. matplotlib <br>
+    c. pandas <br>
+    d. faker 
 
 **Setup Instructions** <BR>
 1. python -m venv churn-pred-env

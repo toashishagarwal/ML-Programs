@@ -1,6 +1,6 @@
-**About**
+**About** <br>
 ChurnPredictor predicts whether a given subscriber will churn based on historical parameters. It makes this prediction based on a number of parameters like gender, age, telecom plan, call-in-mins, past complaints, etc.
-
+<br>
 The project uses scikit-learn's XGBoost algo to make this prediction (churn or No-churn). XGBoost is most suited because it works best for supervised classification problems based on tabular data.
 
 **Features**
@@ -27,7 +27,7 @@ This project -
 **Run Instructions** <BR>
 1. python3.9 train_model.py
 
-If you get an error regarding OpenMP, you may need to install libomp library on your system using -
+If you get an error regarding OpenMP, you may need to install libomp library on your system using - <br>
 brew install libomp
 
 Once the application is run, you should be able to see the following

@@ -14,5 +14,5 @@ The program uses K-means clustering to segment the customers and stores the mode
 2. source cluster-env/bin/activate
 3. pip install -r requirements.txt
 
-## Run Instruction s##
+## Run Instructions ##
 1. python3.9 main.py
